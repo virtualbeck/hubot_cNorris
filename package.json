@@ -1,6 +1,6 @@
 {
   "name": "hubot-chucknorris",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hubot intergration to return a Chuck Norris quote.",
   "main": "index.coffee",
   "scripts": {
